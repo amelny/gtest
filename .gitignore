@@ -1,0 +1,18 @@
+# Build directory
+build/
+# Conan package directories
+conanbuildinfo.txt
+conanbuildinfo.*
+conaninfo.txt
+
+# Conan virtual environments
+.vscode/*
+.vs/*
+CMakeLists.txt.user
+
+# Local package cache
+conan_packages/
+
+
+# 
+CMakeUserPresets.json
